@@ -1,6 +1,6 @@
 # CarDekhoCaseStudy-SpringREST
 
-Enhancing Admin Functionality using Advance Java Concepts like SpringREST. 
+Enhancing Admin Functionality using Frameworks like SpringREST. 
 The Objective of this project is to build server-side Application CarDekho's admin module and user module to enhance its functionality of application.The server-side application refers to the backend of the online car dealership platform, which is responsible for handling data, business logic, and communication with the database. 
 
 **Project Description:**
